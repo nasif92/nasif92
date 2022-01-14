@@ -1,3 +1,6 @@
+[![Nasif's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasif92)](https://github.com/nasif92/github-readme-stats)
+
+
 - 👋 Hi, I’m @nasif92
 - 👀 I’m interested in software development and machine learning
 - 🌱 I’m currently learning machine learning principles and web architecture
